@@ -1,6 +1,6 @@
 # Card_Game_by_java
 
-##Screenshot
+## Screenshot
 ![screen01](./img/ss01.png)
 ![screen01](./img/ss02.png)
 ![screen01](./img/ss03.png)
